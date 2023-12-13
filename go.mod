@@ -1,4 +1,4 @@
-module entgo.io/ent
+module github.com/nandehu0323/ent
 
 go 1.20
 
